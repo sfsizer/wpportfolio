@@ -26,5 +26,3 @@ Live demo: [https://shahriar.free.nf/](https://shahriar.free.nf/)
 
 ```bash
 git clone https://github.com/sfsizer/wpportfolio.git
-
-/wp-content/themes/wpportfolio
